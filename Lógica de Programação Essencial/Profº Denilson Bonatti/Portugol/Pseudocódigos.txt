@@ -1,0 +1,25 @@
+Linguagens de Programação: Escrita formal utilizada para gerar programas, softwares em android, pc, IOS.
+Se você quer que a máquina fale com vocÊ, você precisa falar com ela através da linguagem de programação.
+
+Existem 2 tipos:
+Alto nível: se aproxima da nossa linguagem.
+Baixo nível: Linguagem de pc, necessário ser engenheiro de hardware
+
+Compiladas: digita o código e transformar me um arquivo executável.
+Interpretadas: Abrir um site e as infos são interpretadas pela browser.
+
+Portugol - Desenvolve algoritimos estruturados.
+Concatenar = +
+Desvios condicionais : Aplicação das estruturas de decisão.
+Desvio condicional "Se" (Condição verdadeira)
+- Se(media>7)
+
+Quebra de linha = "\n"
+
+Desvio condicional "senao" (Condição falsa)
+
+Desvio condicional: caso - Para diversas opções
+
+Laços de repetição - Executa mais de 1 vez um comando de acordo com uma condição.
+
+Matrizes e Vetores - Matriz é uma coleção de variáveis / Vetores: são matrizes de uma dimensão.

@@ -35,3 +35,27 @@ Aplacação de lições aprendidas.
 MVP - Missimum Viable Product - Produto Mínimo Viável
 Com os  feebacks o produto vai evoluindo, então entrega o mínimo viável.
 
+Papéis e responsabilidades do time Scrum:
+3 papéis: Product Owner (PO), Scrum Master (SM) e Time de Desenvolvimento (DEV)
+
+Cerimônias do Scrum:
+Time Box: Tempo máximo definido para fazer uma cerimônia ou sprint.
+Sprint é composto por: Planejamento da sprint, Reuniões diárias (Daily Meeting), Revisão de sprint (Review), Retrospectiva Sprint.
+Quem participa: PO, DEV e SM
+8 hs de duração
+
+Planning Poker: Estimativa de cada tarefa e cada uma dá uma.
+
+Reuniões Diárias (Daily Meeting)
+São em pé
+Com o DEV, e definem o que fez no dia anterior, o que está programado para o dia e se tem dificuldades.
+Máximo: 15 minutos.
+
+Revisão Sprint (Review)
+No último dia é apresentado para o PO tudo que desenvolveu em 4 horas.
+
+Retrospectiva
+último dia 
+A equipe DEV aponta os erros que a equipe teve.
+3 horas
+

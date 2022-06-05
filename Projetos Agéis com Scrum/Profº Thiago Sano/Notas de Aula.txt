@@ -1,0 +1,37 @@
+Conceitos Básicos: 
+
+Objetivos de negócios >>> Requisitos >>> Processo de Desenvolvimento que tem várias etapas >>> Nas software que vai ajudar a empresa a atingir os objetivos de negócios.
+
+Gestão de Projetos
+Tradicional: Modo cascata, uma etapa acaba e aoutra começa, demanda tempo.
+Agil: Software construído por partes (Incremental) e cada parte se executa em um ciclo (iterativo). Máximo de 1 mês para execução.
+
+Vantagens do ágil:
+Escopo definido ao longo do projeto
+É controlado por funcionalidades entregues
+Software funcionando na parte inicial
+Mudanças constantes de acordo com feedbacks contínuos
+
+No tradicional é tudo diferente.
+
+Ser ágil é diferente de ser rápido. Ser ágil é rapidez na mudança e desembaraço, resolver coisas complexas de forma simples, a equipe tem que ser comprometida com os objetivos e tem maior valor para o cliente.
+Responder rappidamente as mudanças.
+
+Scrum é um framework de gerenciamento de projetos, que usa equipes pequenas e multidisciplinares.
+
+Pilares do Scrum: Transparência, Adaptação e Inspeção
+Transparência: Conversar menos e escrever mais, obter feedbacks dos usúarios
+Adaptação: Requisitos mudam ao longo do tempo
+Inspeção: Aprender progressivamente com o uso do software.
+
+Razões para usar método Scrum:
+2 a 4 semans para o desenvolvimento
+Melhor gerenciameno de risco
+Daily Meeting: Compromentimento, motivação e transparência da equipe.
+Priorização do backlog
+Usuários envolvidos em todo curso
+Aplacação de lições aprendidas.
+
+MVP - Missimum Viable Product - Produto Mínimo Viável
+Com os  feebacks o produto vai evoluindo, então entrega o mínimo viável.
+

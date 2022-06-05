@@ -1,0 +1,13 @@
+Fluxograma: Fluxo de dados do algoritimo.
+Váriaveis: Objeti localizado na memória, representa um valor ou expressão / Pode ser alterada / Númerica, caracter, Alfa numérica.
+Constantes: Inalteráveis e imutáveis, exemplo: Pi=3,14
+
+Site para criar Fluxogramas(http://www.flowgorithm.org/)
+
+Expressões literais: Atribuição de valor para variável.
+Expressões relacionais: Expressões compostas por outras expressões ou variáveis com operadores relacionais ><, resultam em verdadeiro ou falso.
+Concatenação: Uni o conteúdo de 2 strings que é uma sequência de caracteres. 
+& (e comercial) é utilizado para concatenar.
+Estrutura de Repetição: Executa mais de uma vez a mesma função.
+
+Ver exercícios no flowgorithm, salvos nessa pasta.

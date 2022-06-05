@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Karina"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-05-19 12:51:43 "/>
+        <attribute name="created" value="S2FyaW5hO1RFVFJBMDU0OzIwMjItMDUtMTc7IjAyOjI5OjQzICI7MjMyOQ=="/>
+        <attribute name="edited" value="S2FyaW5hO1RFVFJBMDU0OzIwMjItMDUtMTk7IjEyOjUxOjQzICI7MjsyNDM2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome, sobrenome" type="String" array="False" size=""/>
+            <declare name="Idade" type="Integer" array="False" size=""/>
+            <output expression="&quot;Qual &#233; seu nome ?&quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Qual seu sobrenome?&quot;" newline="True"/>
+            <input variable="sobrenome"/>
+            <output expression="&quot;Qual sua idade?&quot;" newline="True"/>
+            <input variable="Idade"/>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <output expression="&quot;Lance suas Notas, uma de cada vez&quot;" newline="True"/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="Media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="&quot; Seu nome &#233; &quot; &amp; nome &amp; &quot;, seu sobrenome &quot; &amp; sobrenome &amp; &quot;, sua idade &#233; &quot; &amp; idade &amp; &quot; anos e sua media escolar &#233; &quot; &amp; media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

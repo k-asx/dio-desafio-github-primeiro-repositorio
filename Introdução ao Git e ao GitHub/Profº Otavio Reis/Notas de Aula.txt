@@ -1,0 +1,105 @@
+Software de versionamento de código, várias versões de código.
+
+Git é diferente de GitHub - Técnicas diferentes
+
+Git e GitHub não estão sozinhas, existem outros sistemas que oferecem serviços parecidos.
+
+Vantagens:
+Controle de Versão
+Armazenamento em Nuvem
+Trabalho em Equipe
+Melhorar seu código
+Reconhecimento
+
+CLI -  Linhas de comando (Comando Line Interface)
+
+dir - Para verificar onde estamos / Lista de diretórios / O sistema irá listas todas as pastas, programas dentro do sistema windows.
+
+cd - Subir, descer, navegas entre as pastas / Para navegar para um local especifico no sistema - cd inicio do nome da pastas + tab
+
+cd .. - Para voltar uma pasta
+
+ctrl+l - Para limpar a tela 
+
+tab - função de autocompleta 
+Ex.: cd wi + tab ele completa a palavra windows.
+
+mkdir - criar uma pasta
+
+cls - apaga a pasta
+
+mkdir workspace - para criar uma pasta no workspace
+
+echo hello - criar arquivo
+
+del workspace - deleta somente arquivos txt.
+
+rmdir workspace /s /q (nome da pasta) - deleta todo o conteúdo 
+
+* Entendo o Git
+SHA1 - Algoritimo de encriptação 
+Gera conjunto de caracterres de 40 dígitos
+Identifica os arquivos de forma segura.
+Forma curta de representar um arquivo
+
+* Objetos internos do Git : Blobs, Trees e Commits
+
+Blobs (Bolhas) - echo "conteúdo" (é o output)
+		Contém muitos dados do git
+		Tipo de objetos, tamanho...
+		Tem SHA1 dos arquivos
+
+Tree (Árvores) - Armazenam os blobs
+		Também contém meta dados
+		Guarda o nome do arquivo, diferente do blobs
+		Monta a estrutura de onde estão os arquivos
+		As arvores apontam para a blobs e tem um CHA1 com meta dados das árvores.
+Commit - Junta tudo
+	Aponta para as árvores, parente, autor, mensagem.
+	Tem um timestamp (carimbo do tempo)
+
+* Chaves SSH e Tokens - Estabelece conexão segura e encriptada entre 2 máquinas.
+
+Markdown - Forma mais humana de criar um arquivo HTML, é o esqueleto da página da web.
+
+Ls -a - Mostra os arquivos ocultos
+
+Tracked:
+Staged - arquivos que estão se preparando. Arquivos aguardando atras do palco (backstage)para ser editado.
+
+Modifid - Sofreu alterações.
+
+Unmodifid - Não sofreu alterações, quando modificado muda para modificad e depois para stanged.  
+No staged o arquivo fica se preparando para o commit.
+Não foi modififcado.
+
+Untracked - Ex.: Criamos um arquivo txt com a receita de strogonoff, com o nome strogonoff, acresctamos a receita e salvamos. Após isso ela vai direto para stanged e fica aguardando.
+É o arquivo que acabamos de criar, o GIT ainda não sabia da existência dele e move para o stage.
+
+Quando o arquivo é removido volta para o untracked.
+
+Git status - Para monitorar o status do arquivo.
+
+MV - Para mover
+
+git add* ou git add . - Para adicionar uma pasta
+
+RM - remove um arquivo
+
+*Resolvendo conflitos:
+
+Conflito de marche -  Quando o Git tenta juntar 2 edições
+
+Git push original - envia meu git - empurra
+
+Git pull origin master - Quando tem alterações no repositório, tem que puxar.
+
+Merge conflict in - conflito no repositório na mesma linha tem que ser resolvido  de maneira manual (abri no typora).
+
+*Como baixar código - Como baixar um repositório do github para meu repositório local.
+
+Entre no repositório , clique em cody, copie o link html - Abra  o gitbash na pasta em que irá baixar o repostório - Digite no gitbach : git clone + url que copiou no github e enter.
+
+cd (nome da pasta)  e pronto
+
+git remove  -v - Remove repositório remotos na qual essse repostório acabamos de baixar. 
